@@ -1,11 +1,11 @@
 Gunicorn
 pytz
-Flask
+Flask>=2.2.2  # Updated Flask to a newer version
 Flask-Session
 requests
 itsdangerous==1.1.0
-Jinja2>=2.11.3  # Upgraded version
-MarkupSafe>=2.1.1  # Previously updated version
+Jinja2>=3.1.2  # Updated Jinja2 to a newer version
+MarkupSafe>=2.1.1
 Werkzeug==2.2.3
 numpy>=1.9.2
 scipy>=0.15.1
