@@ -1,12 +1,12 @@
 Gunicorn
 pytz
-Flask>=2.2.2  # Updated Flask to a newer version
+Flask>=2.2.2  # Flask updated to a version compatible with Werkzeug and itsdangerous
 Flask-Session
 requests
-itsdangerous==1.1.0
-Jinja2>=3.1.2  # Updated Jinja2 to a newer version
-MarkupSafe>=2.1.1
-Werkzeug==2.2.3
+itsdangerous>=2.0  # Updated to be compatible with newer Flask versions
+Jinja2>=3.1.2  # Ensure compatibility with Flask and MarkupSafe
+MarkupSafe>=2.1.1  # Compatible with newer Flask and Jinja2 versions
+Werkzeug>=2.3.0  # Updated to be compatible with newer Flask versions
 numpy>=1.9.2
 scipy>=0.15.1
 scikit-learn>=0.18
