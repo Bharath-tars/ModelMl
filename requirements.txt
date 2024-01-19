@@ -4,8 +4,8 @@ Flask
 Flask-Session
 requests
 itsdangerous==1.1.0
-Jinja2==2.11.3
-MarkupSafe>=2.1.1  # Updated version
+Jinja2>=2.11.3  # Upgraded version
+MarkupSafe>=2.1.1  # Previously updated version
 Werkzeug==2.2.3
 numpy>=1.9.2
 scipy>=0.15.1
