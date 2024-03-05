@@ -71,13 +71,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 - Begin a new virtual environment with Python 3 and activate it.
 - Install the required packages using pip install -r requirements.txt
 - Execute the command: python app.py
-
-### Team  
-[![Ditikrushna Giri](https://ditikrushna.me/images/diti.jpg)](https://ditikrushna.me/) |
--|
-[Ditikrushan Giri](https://ditikrushna.me/) |)
-
-
+  
 ### Credits 
 - Took inspiration from [Krish Naik](https://github.com/krishnaik06) Who is a youtuber he makes contents on Data science [his youtube channel link](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig) 
 - Icons by [Icons8](https://icons8.com/)
