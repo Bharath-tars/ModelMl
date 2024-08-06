@@ -1,4 +1,4 @@
-## Diabetes Prediction Application using Machine Learning (MINI Project)  
+## Model for Diabetes Prediction using Machine Learning (MINI Project)  
 
 ### Overview 
 In this project, the objective is to predict whether the person has Diabetes or not based on various features suach as 
